@@ -1,6 +1,3 @@
-﻿langchain==0.1.17
-langchain-community==0.0.41
-langchain-core==0.1.46
 langchain-huggingface==0.0.1
 langgraph==0.0.38
 faiss-cpu
@@ -10,3 +7,23 @@ sentence-transformers
 PyPDF2
 google-generativeai
 python-dotenv
+
+
+
+# --- LangChain Core ---
+langchain==0.1.17
+langchain-community==0.0.41
+langchain-core==0.1.34
+
+# --- Embedding, Models, Transformers ---
+transformers
+sentence-transformers
+faiss-cpu
+huggingface-hub
+
+# --- App UI & Config ---
+streamlit
+python-dotenv
+
+# --- Gemini Support (Uncomment if using Google Gemini) ---
+# google-generativeai
