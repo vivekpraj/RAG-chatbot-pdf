@@ -1,29 +1,19 @@
+# LangChain ecosystem
+langchain==0.1.17
+langchain-community==0.0.38  # 👈 Use this — 0.0.41 is unavailable
+langchain-core==0.1.34
 langchain-huggingface==0.0.1
-langgraph==0.0.38
+
+# LLM and RAG tools
 faiss-cpu
-streamlit
 transformers
 sentence-transformers
 PyPDF2
+
+# Gemini support (optional)
 google-generativeai
-python-dotenv
 
-
-
-# --- LangChain Core ---
-langchain==0.1.17
-langchain-community==0.0.41
-langchain-core==0.1.34
-
-# --- Embedding, Models, Transformers ---
-transformers
-sentence-transformers
-faiss-cpu
-huggingface-hub
-
-# --- App UI & Config ---
+# Utility
 streamlit
 python-dotenv
-
-# --- Gemini Support (Uncomment if using Google Gemini) ---
-# google-generativeai
+huggingface-hub
