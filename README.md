@@ -32,13 +32,13 @@ TinyLlama:-	HuggingFace	Lightweight, local-friendly
 Gemini Pro:-	Google API	Best quality, requires API key
 
 📄 Example Use Cases:-
-Resume analysis chatbot
-Legal or contract Q&A
-Research paper summarizer
-Chat with financial reports or business docs
+Resume analysis chatbot,
+Legal or contract Q&A,
+Research paper summarizer,
+Chat with financial reports or business docs.
 
 👨‍💻 Author
-Vivek Ashok Prajapati
+**Vivek Ashok Prajapati**
 B.E. — University of Mumbai
 
 
