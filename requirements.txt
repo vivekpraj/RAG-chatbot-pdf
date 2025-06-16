@@ -1,7 +1,7 @@
 # LangChain ecosystem (version locked to avoid conflicts)
 langchain==0.1.17
 langchain-community==0.0.38
-langchain-core==0.1.34
+langchain-core
 langchain-huggingface==0.0.1
 langgraph==0.0.38
 
