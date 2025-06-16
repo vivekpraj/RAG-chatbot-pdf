@@ -1,6 +1,6 @@
 # LangChain ecosystem
 langchain==0.1.17
-langchain-community==0.0.38  # 👈 Use this — 0.0.41 is unavailable
+langchain-community==0.0.41  # 👈 Use this — 0.0.41 is unavailable
 langchain-core==0.1.34
 langchain-huggingface==0.0.1
 
